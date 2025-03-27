@@ -6,7 +6,7 @@ import LoanDetailsPage from './LoanDetailsPage';
 import LoanTermsPage from './LoanTermsPage';
 import LoanAmountPage from './LoanAmountPage';
 import LoanWelcomePage from './LoanWelcomePage';
-import { ArrowRightIcon } from '../components/icons';
+import { ArrowRightIcon, ArrowLeftIcon } from '../components/icons';
 import NumPad from '../components/NumPad';
 import { toast } from '../components/ui/use-toast';
 

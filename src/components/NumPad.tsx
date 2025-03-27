@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { BackspaceIcon } from './icons';
+import { BackspaceIcon, ArrowRightIcon } from './icons';
 
 interface NumPadProps {
   onNumberPress: (num: string) => void;
